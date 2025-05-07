@@ -1,0 +1,104 @@
+[
+    {
+        "name": "Agropelter",
+        "location": "Maine, USA",
+        "description": "Mischievous creature known for throwing branches and logs at people.",
+        "image": "cryptids/cryptid_agropelter.jpg"
+    },
+    {
+        "name": "Augerino",
+        "location": "Colorado, USA",
+        "description": "A worm-like creature that uses its auger-shaped body to drill into dams and let the water out.",
+        "image": "cryptids/cryptid_augerino.jpg"
+    },
+    {
+        "name": "Bandage Man",
+        "location": "Cannon Beach, Oregon, USA",
+        "description": "A ghostly figure wrapped in bandages, said to haunt the coastal area.",
+        "image": "cryptids/cryptid_bandage_man.jpg"
+    },
+    {
+        "name": "Batsquatch",
+        "location": "Mount St. Helens, Washington, USA",
+        "description": "A sasquatch-like creature with bat-like wings, reported near the volcano.",
+        "image": "cryptids/cryptid_batsquatch.jpg"
+    },
+    {
+        "name": "Bigfoot",
+        "location": "California, Oregon, Washington, USA",
+        "description": "A large, hairy humanoid creature, often considered the most famous cryptid.",
+        "image": "cryptids/cryptid_bigfoot.jpg"
+    },
+    {
+        "name": "Ding-Ball",
+        "location": "Maine, USA",
+        "description": "Also known as the Dingmaul, this is a cat-like creature with a ball on the end of its tail.",
+        "image": "cryptids/cryptid_ding_ball.jpg"
+    },
+    {
+        "name": "Dover Demon",
+        "location": "Dover, Massachusetts, USA",
+        "description": "A small, humanoid creature with glowing eyes, reported in the 1970s.",
+        "image": "cryptids/cryptid_dover_demon.jpg"
+    },
+    {
+        "name": "Flatwoods Monster",
+        "location": "West Virginia, USA",
+        "description": "A tall, humanoid figure with a spade-shaped head, first sighted in 1952.",
+        "image": "cryptids/cryptid_flatwoods_monster.jpg"
+    },
+    {
+        "name": "Grafton Monster",
+        "location": "West Virginia, USA",
+        "description": "A hulking monster with no apparent head, first reported in the 1960s.",
+        "image": "cryptids/cryptid_grafton_monster.jpg"
+    },
+    {
+        "name": "Hoop Snake",
+        "location": "Minnesota, North Carolina, Wisconsin, USA",
+        "description": "A venomous snake that is said to bite its tail and roll like a hoop.",
+        "image": "cryptids/cryptid_hoop_snake.jpg"
+    },
+    {
+        "name": "Hopkinsville Goblin",
+        "location": "Hopkinsville, Kentucky, USA",
+        "description": "Goblin-like creatures that reportedly attacked a farmhouse in 1955.",
+        "image": "cryptids/cryptid_hopkinsville_goblin.jpg"
+    },
+    {
+        "name": "Jackalope",
+        "location": "South Dakota, Wyoming, USA",
+        "description": "An elusive creature resembling a jackrabbit with antelope horns.",
+        "image": "cryptids/cryptid_jackalope.jpg"
+    },
+    {
+        "name": "Loveland Frogman",
+        "location": "Loveland, Ohio, USA",
+        "description": "Humanoid frog-like creature first reported in the 1950s.",
+        "image": "cryptids/cryptid_loveland_frogman.jpg"
+    },
+    {
+        "name": "Mothman",
+        "location": "Point Pleasant, West Virginia, USA",
+        "description": "A tall, winged creature with glowing red eyes, famously sighted in the 1960s.",
+        "image": "cryptids/cryptid_mothman.jpg"
+    },
+    {
+        "name": "Not Deer",
+        "location": "Tennessee, USA",
+        "description": "Appears to be a deer at first glance but has unsettling features and behavior.",
+        "image": "cryptids/cryptid_not_deer.jpg"
+    },
+    {
+        "name": "Van Meter Visitor",
+        "location": "Van Meter, Iowa, USA",
+        "description": "A winged creature with glowing eyes and a horn on its head. Shoots a blinding light from its horn.",
+        "image": "cryptids/cryptid_van_meter_visitor.jpg"
+    },
+    {
+        "name": "Vegetable Man",
+        "location": "West Virginia, USA",
+        "description": "A tall humanoid creature that resembles a walking vegetable, first reported in the 1960s.",
+        "image": "cryptids/cryptid_vegetable_man.jpg"
+    }
+]
