@@ -1,23 +1,26 @@
-import logo from './logo.svg';
+import React, { useState } from 'react';
+import cryptids from './cryptids.json';
 import './App.css';
 
 function App() {
+  const [cryptid, setCryptid] = useState(getRandomCryptid());
+
+  function getRandomCryptid() {
+    return cryptids[Math.floor(Math.random() * cryptids.length)];
+  }
+
+  function handleNewCryptid() {
+    setCryptid(getRandomCryptid());
+  }
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <h1>Random Cryptid</h1>
+      <img src={cryptid.image} alt={cryptid.name} />
+      <h2>{cryptid.name}</h2>
+      <p>Location: {cryptid.location}</p>
+      <p>{cryptid.description}</p>
+      <button onClick={handleNewCryptid}>Show Another Cryptid</button>
     </div>
   );
 }
