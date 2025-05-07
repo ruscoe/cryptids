@@ -1,3 +1,5 @@
+![cryptid_banner](https://github.com/user-attachments/assets/3c2f4576-d4cf-4639-a40a-96a42e86fdab)
+
 # Cryptids
 
 Shows a random cryptid.
