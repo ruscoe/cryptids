@@ -16,7 +16,7 @@ function App() {
   return (
     <div>
       <h1>Random Cryptid</h1>
-      <img src={cryptid.image} alt={cryptid.name} />
+      <img class="cryptid-image" src={cryptid.image} alt={cryptid.name} />
       <h2>{cryptid.name}</h2>
       <p>Location: {cryptid.location}</p>
       <p>{cryptid.description}</p>
